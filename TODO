@@ -1,0 +1,3 @@
+* Pull in regular-expressions and make it easy to define a
+  fingerprint that uses a regular expression for the check.
+* Define some basic fingerprints for integer, float, numeric.

@@ -1,0 +1,3 @@
+[submodule "ext/regular-expressions"]
+	path = ext/regular-expressions
+	url = git://github.com/dylan-lang/regular-expressions.git
